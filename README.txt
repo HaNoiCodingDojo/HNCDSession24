@@ -14,3 +14,7 @@ Goal : Trying to port an old smalltalk gui application to a new version of the l
 ** limitation of the sandboxing system and integration of the tools which can collapse the whole system
 ** maybe too much at the same time (language, mikado, basecode)
 ** mistake of using moose -> maybe basic pharo image
+
+* Links
+** http://www.slideshare.net/danielbrolund/mikadomethod-tad2011-7294775
+** http://mikadomethod.wordpress.com/exercises/
